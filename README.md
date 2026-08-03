@@ -1,6 +1,18 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on:<br>Building responsive and interactive web applications using HTML, CSS, JavaScript, React, Next.js, Tailwind, and Bootstrap.<br><br>🤝 I'm looking to collaborate on:<br>Front-end projects, landing pages, or improving the visual design and performance of websites.<br><br>🧠 I'm currently learning:<br>Modern front-end technologies like Tailwind CSS, Git, and advanced React/Next.js concepts.<br><br>💬 Ask me about:<br>Web design, responsive layouts, or creating bilingual websites (Arabic & English).<br><br>⚡ Fun fact:<br>I enjoy turning creative ideas into real, functional websites — bringing designs to life with clean and efficient code!
+👨‍💻 I'm currently working on:<br>
+Building real-world software applications and improving my development skills through hands-on projects, continuous learning, and practical experience.<br><br>
 
+🤝 I'm looking to collaborate on:<br>
+Open-source projects, software applications, and innovative solutions where I can learn, contribute, and grow with other developers.<br><br>
+
+🧠 I'm currently learning:<br>
+Software architecture, design patterns, clean code principles, and modern software development practices.<br><br>
+
+💬 Ask me about:<br>
+Software development, application architecture, REST APIs, Git, problem-solving, or my learning journey.<br><br>
+
+⚡ Fun fact:<br>
+I enjoy turning ideas into real software, learning new technologies, and continuously challenging myself to become a better software engineer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_Ahmed._.Ezzat_)
