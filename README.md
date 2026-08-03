@@ -14,8 +14,4 @@
 ![](https://github-readme-stats.shion.dev/api?username=AhmedEzzat17&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AhmedEzzat17&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedEzzat17&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=AhmedEzzat17&icon=8&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
