@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👨‍💻 **I'm currently working on:**<br>Building software applications and continuously improving my skills by developing real-world projects and exploring modern technologies.<br><br>🤝 **I'm looking to collaborate on:**<br>Open-source projects, innovative software solutions, and opportunities to learn from experienced developers.<br><br>🧠 **I'm currently learning:**<br>Software architecture, design patterns, clean code principles, and modern development practices.<br><br>💬 **Ask me about:**<br>Software development, application architecture, problem-solving, Git, REST APIs, and my learning journey.<br><br>⚡ **Fun fact:**<br>I enjoy learning new technologies, turning ideas into working software, and challenging myself to build better solutions every day.<br>
 
 
