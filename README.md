@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ahmed Ezzat 👋
+# Hi, I'm Ahmed Ezzat
 
 ### Software Engineer | Front-End Specialist | React.js & Next.js
 
@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AhmedEzzat17&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com/?user=AhmedEzzat17&theme=blue_navy&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AhmedEzzat17&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedEzzat17&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
