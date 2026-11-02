@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmed Ezzat
 
-### Software Engineer | Front-End Specialist | React.js & Next.js
+### Software Engineer | Front-End Specialist
 
 <p>
   <a href="https://ahmedezzat-17.vercel.app/">
